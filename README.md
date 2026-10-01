@@ -10,7 +10,7 @@
 
 I'm a Brazil-based Full-stack Developer with over 3 years of hands-on experience, driven by a passion for continuous learning and problem-solving. 
 
-My journey in tech spans across robust backend architecture and intuitive frontend interfaces, always aiming to deliver high-impact software. 
+My journey in tech spans across robust backend architecture and intuitive frontend interfaces, always aiming to create software that adds real value.
 
 I firmly believe that embracing complex engineering challenges is the most powerful catalyst for professional growth, pushing me to constantly evolve, adapt, and refine my skills.
 
